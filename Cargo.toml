@@ -7,6 +7,4 @@ authors = ["Tiziano Santoro <tiziano88@gmail.com>"]
 iron = "*"
 router = "*"
 params = "*"
-log = "*"
-env_logger = "*"
 palette = "*"
